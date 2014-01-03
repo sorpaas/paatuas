@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
-title: "In the Beginning"
-description: "Sorpa'as reasized himself in a dark place. He had nothing to stand on, but he did not fall. He can speak, but he cannot hear."
+title: "在開始之時"
+description: "松巴看見無邊無際的黑暗，他無法站直身體，也無法倒下；他無法言語，也只能聽見虛空。"
 category: stories
 tags: [sorpa'as]
 ---
