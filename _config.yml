@@ -15,12 +15,12 @@ owner:
   instagram:      sorpaas
   disqus:         paatuas
   # Plug in your disqus shortname!
-  
+
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: djuno mi
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -37,7 +37,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
